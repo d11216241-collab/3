@@ -10,6 +10,7 @@ This is a practical training project aimed at creating a safe division calculato
 
 - `safe_division.py` - 主要的 safe_division 函式實作 / Main safe_division function implementation
 - `test_safe_division.py` - 完整的單元測試套件 / Comprehensive unit test suite
+- `demo.py` - 示範程式，展示各種使用情境 / Demo program showing various use cases
 - `TEST_RESULTS.md` - 詳細的測試結果報告 / Detailed test results report
 
 ## 快速開始 / Quick Start
@@ -18,6 +19,12 @@ This is a practical training project aimed at creating a safe division calculato
 
 ```bash
 python3 -m unittest test_safe_division.py -v
+```
+
+### 執行示範程式 / Run Demo Program
+
+```bash
+python3 demo.py
 ```
 
 ### 使用函式 / Use the Function
